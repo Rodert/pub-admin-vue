@@ -21,6 +21,10 @@ module.exports = {
   ],
   // add your custom rules here
   rules: {
+    "no-unused-vars": 'off',
+    "quotes": [1, "single"],//引号限制
+    "eqeqeq": ["off"],//强制===
+    "indent": ["off",4],//缩进
     // allow async-await
     'generator-star-spacing': 'off',
     // allow debugger during development
