@@ -54,7 +54,7 @@ export default {
                     alert('注册成功')
 
                     this.$router.push({
-                        path: '/',
+                        path: '/Login',
                         query: {
                             list: this.user_list
                         }

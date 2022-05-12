@@ -108,7 +108,7 @@ new_list: []
           alert('您已退出登录')
 
           this.$router.push({
-            path: '/'
+            path: '/Login'
           }
         )
       },
