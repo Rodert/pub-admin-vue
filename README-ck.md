@@ -3,3 +3,8 @@
 https://gitee.com/wx_f6a2d8acc5/student-management-system/tree/main/
 
 https://blog.csdn.net/weixin_43633329/article/details/112760968
+
+
+外卖点餐系统:https://gitee.com/liu-kunyu/study
+ 
+ ruoyi
